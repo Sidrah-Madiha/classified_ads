@@ -1,0 +1,1 @@
+# This is a Classified Ads website to capture and display all ads related to word .
