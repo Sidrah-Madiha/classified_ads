@@ -17,7 +17,7 @@ function selectAllFilter() {
 
 function selectActiveFilter() {
     location.hash = '/active'
-    onblur=2
+    onblur=23
 }
 
 function selectCompletedFilter() {
